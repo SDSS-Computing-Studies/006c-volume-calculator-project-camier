@@ -38,6 +38,7 @@ def title():
     print("==================== Volumetric calculator ====================")                                  
     for i in range(0,5):
         print("*" * (5 - 1 - i) + " " * (i + 1) + "                                                      " + " " * i +"*" * (5 - 1 - i))
+    print("                                     --by Chara Yu and Jacky Xu")
     return None
 
 def instructions():
