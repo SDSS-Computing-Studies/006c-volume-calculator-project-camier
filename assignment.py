@@ -12,6 +12,9 @@ Introduction:
 > The geometry list:
 [ Cuboid , Cube , Cylinder , Cone(round) , Cone(sided) , Sphere ]
 
+> If you want to know more introduction and the principle of program operation, please check out the attachment [ Program description ].
+
+
 Instructions for use:
 
 1 - You need to choose one geometry from the geometry list.
