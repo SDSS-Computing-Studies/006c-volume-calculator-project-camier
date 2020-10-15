@@ -1,7 +1,28 @@
 #!python3
 # Volume Calculator
 # Feel free to rename your variables
+"""
 
+Introduction:
+
+> This is a program for calculating the volume of different geometries.
+
+> You need to input variables namely geometry length and height. Then the program will calculate the geometry volume and display the result.
+
+> The geometry list:
+[ Cuboid , Cube , Cylinder , Cone(round) , Cone(sided) , Sphere ]
+
+Instructions for use:
+
+1 - You need to choose one geometry from the geometry list.
+
+2 - You need to enter the data of the geometry which you want to calculate in the input box, and then press Enter.
+
+3 - The program automatically calculates the volume of the geometry and displays the results.
+
+4 - When you finish using the program, you can choose to exit. If you do not choose to exit, the system will automatically return to the original interface, allowing you to re-select the geometry calculation.
+
+"""
 
 def title():
     # Will display a title screen
