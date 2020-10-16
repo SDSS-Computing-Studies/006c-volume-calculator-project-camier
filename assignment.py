@@ -17,13 +17,15 @@ Introduction:
 
 Instructions for use:
 
-1 - You need to choose one geometry from the geometry list.
+1 - At the iintial interface, you should press "1" to go to next step. If you wang to quit, you can press "0" at this interface.
 
-2 - You need to enter the data of the geometry which you want to calculate in the input box, and then press Enter.
+2 - Next, you will see six geometry options and the number after each geometry. Select the geometry you want to calcultae and enter its corresponding number in the input box.
 
-3 - The program automatically calculates the volume of the geometry and displays the results.
+3 - Input the conditions that calculate required(Length, height, wide).
 
-4 - When you finish using the program, you can choose to exit. If you do not choose to exit, the system will automatically return to the original interface, allowing you to re-select the geometry calculation.
+4 - The program automatically calculates the volume of the geometry and displays the results.
+
+5 - When you finish using the program, you can choose to exit. If you do not choose to exit, the system will automatically return to the original interface, allowing you to re-select the geometry calculation.
 
 """
 
